@@ -11,5 +11,5 @@
 * Tegar Putra Pamungkas (A466D4KY3958) - Mobile Development - Universitas Sains Alqur'an 
 *  Naufal Ammar Raihan (A466D4KY4584) - Mobile Development - Universitas Sains Alqur'an 
 
-# <ins>BANGKIT 2024 CAPSTONE PROJECT</ins>
+# BANGKIT 2024 CAPSTONE PROJECT
 
