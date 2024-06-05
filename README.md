@@ -1,1 +1,1 @@
-# C241-PS257 / CANEAT?
+# CanEat? app is a BANGKIT-PROJECT
