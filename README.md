@@ -2,4 +2,4 @@
 
 
 Group C241-PS257 Member :
-*Muhammad Naufal Ramadhan
+* Muhammad Naufal Ramadhan
