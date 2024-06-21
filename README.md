@@ -29,8 +29,10 @@ CanEat? is a mobile application that aims to overcome agriculture problems using
 2. Install the APK file on your Android device.
 3. Run the app (you can see the APK demo video on Google Drive)
 
+Or if you want to see our Machine Learning, Cloud Computing, and Mobile Development work, you can explore this Github repository branches
+
 <div align="center">
-  <img src="https://drive.google.com/file/d/1hSA7DcKgIxzAaaJYIdHhIKDiVTf4jpTm/view?usp=sharing">
+  <img src="Virtual Background Bangkit 2024.png">
 </div>
 
 
